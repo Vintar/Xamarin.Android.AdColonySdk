@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdColonySdk", "AdColonySdk\AdColonySdk.csproj", "{1FE12887-8433-413C-AB9B-41550D34F9C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{D6B93BAB-B0B7-4C82-85AC-F6D84F057EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdColonySdkSample.Droid", "Samples\AdColonySdkSample.Droid\AdColonySdkSample.Droid.csproj", "{D37F6658-B007-4671-A3AD-714D7A834B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE12887-8433-413C-AB9B-41550D34F9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE12887-8433-413C-AB9B-41550D34F9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE12887-8433-413C-AB9B-41550D34F9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE12887-8433-413C-AB9B-41550D34F9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37F6658-B007-4671-A3AD-714D7A834B39}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D37F6658-B007-4671-A3AD-714D7A834B39} = {D6B93BAB-B0B7-4C82-85AC-F6D84F057EB9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D855E1D-F015-45F7-BFC4-E588AA5CD1FB}
+	EndGlobalSection
+EndGlobal
