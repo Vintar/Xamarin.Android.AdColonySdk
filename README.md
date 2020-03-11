@@ -1,4 +1,4 @@
-# Xamarin.Android.UnityAdsSdk
+# Xamarin.Android.AdColonySdk
 Xamarin android binding AdColony SDK
 
 ### Documentation:
