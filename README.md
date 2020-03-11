@@ -1,5 +1,5 @@
 # Xamarin.Android.UnityAdsSdk
-Xamarin android binding UnityAds SDK
+Xamarin android binding AdColony SDK
 
 ### Documentation:
-[Unity documentation](https://unityads.unity3d.com/help/monetization/getting-started)
+[AdColony documentation](https://github.com/AdColony/AdColony-Android-SDK)
