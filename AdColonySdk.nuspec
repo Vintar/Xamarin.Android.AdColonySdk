@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Xamarin.Android.AdColonySdk</id>
+    <version>4.1.4</version>
+    <description>Xamarin Binding Library - AdColony::AdColonySdk</description>
+    <authors>Michał Krzus</authors>
+    <owners>Michał Krzus</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Xamarin - AdColony::AdColonySdk</title>
+    <releaseNotes>AdColony::AdColonySdk v4.1.4</releaseNotes>
+    <summary>Xamarin Binding Library - AdColony::AdColonySdk</summary>
+    <license type="expression">Apache-2.0</license>
+    <projectUrl>https://github.com/Vintar/Xamarin.Android.AdColonySdk</projectUrl>
+    <copyright>Copyright (c) 2020 Michał Krzus</copyright>
+    <tags>Xamarin.Android, Mediation, AdColony, AdColonySdk</tags>
+  </metadata>
+
+  <files>
+    <file src="AdColonySdk/bin/Release/AdColonySdk.dll" target="lib/MonoAndroid10/AdColonySdk.dll" />
+  </files>
+
+</package>
